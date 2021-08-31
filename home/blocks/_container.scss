@@ -1,0 +1,29 @@
+.container{
+  
+    width: 1440px;
+    max-width: 100%;
+    margin:  0 auto;
+    padding: 0 167px;
+}
+@media screen and (max-width:1153px) {
+    .container{
+        width: 1153px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width:1240px) {
+    .container{
+        width: 1240px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width:940px) {
+    .container{
+        width: 940px;
+        padding: 0 10px;
+    }
+}
+//comentariya
+//padding 167px ga kelgandan keyin surilishni boshladiiii
